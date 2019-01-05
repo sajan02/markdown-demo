@@ -54,3 +54,5 @@ Heading 2
 - [ ] An uncompleted task
 - [x] A completed task
 
+#### Emoji
+:point_right: Use emoji icons to enhance text. :thumbsup:  Look up emoji codes at [emoji-cheat-sheet.com](https://www.webfx.com/tools/emoji-cheat-sheet/ emoji's)
