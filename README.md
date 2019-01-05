@@ -5,9 +5,10 @@
            <summary>About</summary>
            <p>I am just practising some markup</p>
 </details>
+:smile: :blush: :heart_eyes: :relaxed: :thumbsup: :ok_hand:
 
 ### Navigation
-[Sajan Kashi](https://github.com/sajan02/) and [want to practise](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) or <http://example.com/>
+[Sajan Kashi](https://github.com/sajan02/) and [want to practise] (https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
  - - - -
 
@@ -49,4 +50,7 @@ Heading 2
   * step3.1
   * step3.2 
 
+### CheckList
+- [ ] An uncompleted task
+- [x] A completed task
 
