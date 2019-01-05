@@ -2,8 +2,8 @@
 
 
 <details>
-           <summary>About</summary>
-           <p>I am just practising some markup</p>
+    <summary>About</summary>
+    <p>I am just practising some markup</p>
 </details>
 :smile: :blush: :heart_eyes: :relaxed: :thumbsup: :ok_hand:
 
@@ -55,4 +55,4 @@ Heading 2
 - [x] A completed task
 
 #### Emoji
-:point_right: Use emoji icons to enhance text. :thumbsup:  Look up emoji codes at [emoji-cheat-sheet.com](https://www.webfx.com/tools/emoji-cheat-sheet/ emoji's)
+:point_right: Use emoji icons to enhance text. :thumbsup:  Look up emoji codes at [emoji-cheat-sheet.com](https://www.webfx.com/tools/emoji-cheat-sheet/)
