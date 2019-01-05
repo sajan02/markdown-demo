@@ -7,7 +7,7 @@
 </details>
 
 ### Navigation
-[Sajan Kashi](https://github.com/sajan02/) and http://www.google.fr/ or <http://example.com/>
+[Sajan Kashi](https://github.com/sajan02/) and [want to practise](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) or <http://example.com/>
 
  - - - -
 
