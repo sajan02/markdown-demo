@@ -11,9 +11,9 @@
 
  - - - -
 
-![picture alt](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjx6tLH_dXfAhUTY48KHYhvANEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcover%2F&psig=AOvVaw1CubypBoYVp-yO671r9fEc&ust=1546755006897278 "Sajan Kashi")
+![picture alt](https://images.pexels.com/photos/1130980/pexels-photo-1130980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Sajan Kashi")
 
-### Blockquote
+
 > Life
 >> “Create the highest, grandest vision possible for your life, because you become what you believe”
 
