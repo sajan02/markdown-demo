@@ -19,3 +19,10 @@ Heading 2
 ```
     npm install -g jsdoc
 ```
+
+### steps to install
+
+`function sum(x,y)
+{
+    return x+y
+}`
