@@ -8,7 +8,7 @@
 :smile: :blush: :heart_eyes: :relaxed: :thumbsup: :ok_hand:
 
 ### Navigation
-[Sajan Kashi](https://github.com/sajan02/) and [want to practise] (https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+[Sajan Kashi](https://github.com/sajan02/) and [want to practise](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
  - - - -
 
