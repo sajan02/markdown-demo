@@ -30,19 +30,19 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 Heading 2
 ----------
 
-### Heading 3
+
+### steps to install
 
 ```
     npm install -g jsdoc
 ```
 
-### steps to install
-
-```function sum(x,y)
+`function sum(x,y)
 {
     return x+y
-}```
+}`
 
+### List
 * step1
 * step2
 * step3
